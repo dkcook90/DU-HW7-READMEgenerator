@@ -1,8 +1,8 @@
-# ao;seihf;alisehf
+# README.md Generator
 
   ## Descriptiton
 
-  a;lksihefaseh;fliahse
+  Using the command line, the user is able to generate a README.md file using command line prompts.
 
   ## Table of Contents
   
@@ -20,11 +20,11 @@
 
   ## Installation Instructions
 
-  a;seilhf;alisehf
+  Initialize the application from the terminal via VSCode (node index.js)
 
   ## Usage Information
 
-  a;lsiehfalisehf;laih
+  To make a README file simply by answering questions.
   
   ## License
 
@@ -35,16 +35,16 @@ https://choosealicense.com/licenses/mit/
 
   ## Contributing Guidlines
 
-  a;lsihef;laisehf
+  Others may contribute by adding more features.
 
   ## Testing Instructions
 
-  a;lsihef;laiseh
+  By adding a test.js file
 
   ## Questions
 
-  If you have any questions about ao;seihf;alisehf, you may reach me at the following:
+  If you have any questions about README.md Generator, you may reach me at the following:
 
-  GitHub: a;eslifha;lse
-  email: ase;lifha;slihfea
+  GitHub: dkcook90
+  email: dkcook90@gmail.com
   
